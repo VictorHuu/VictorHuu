@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorhuu&label=Profile%20views&color=0e75b6&style=flat" alt="victorhuu" /> </p>
 
-- 🔭 I’m currently working on [DataBase_Program_Pet-Rescue-Station](https://github.com/shiguangbiyi/DataBase_Program_Pet-Rescue-Station)
+- 🔭 to do ...
 
-- 🌱 I’m currently learning **Hadoop,Zookeeper,Hive**
+- 🌱 I’m currently learning **Hive**
 
 - 📫 How to reach me **victorhu493@gmail.com**
 
