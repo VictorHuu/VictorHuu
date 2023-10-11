@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorhuu&label=Profile%20views&color=0e75b6&style=flat" alt="victorhuu" /> </p>
 
-- 🔭 to do ...
+- 🔭 Going through the design pattern analysis schoolwork
 
 - 🌱 I’m currently learning **Hive**
 
