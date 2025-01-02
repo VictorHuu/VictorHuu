@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/victor-hut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="victor-hut" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/victorhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="victorhu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/victor-eei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="victor-eei" height="30" width="40" /></a>
+<a href="https://www.leetcode.cn/u/victor-eei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="victor-eei" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
